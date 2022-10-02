@@ -1,3 +1,5 @@
+<img src="./images/dolphinscheduler_logo.png" width="200" hight="200" align="right">
+
 # awesome-dolphinscheduler 
 
 该仓库主要是`Apache DolphinScheduler`官网资料的补充，收集各种相关的学习资料。
